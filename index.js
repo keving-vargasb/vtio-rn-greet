@@ -1,1 +1,2 @@
-console.log("Hola")
+import Greet from './src/Greet';
+export { Greet };
